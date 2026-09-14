@@ -90,4 +90,5 @@ For any questions, feedback, or collaboration opportunities, feel free to reach 
 
 Special thanks to the developers of Flask, SQLite, and Render for providing the tools that made this project possible. The **Grocery Full-Stack Web App** is a testament to the power of modern web development tools in creating seamless, user-friendly applications.
 
+
 ---
